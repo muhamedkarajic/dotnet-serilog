@@ -1,0 +1,140 @@
+2022-04-20 06:09:12.663 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:09:12.694 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:09:12.699 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:09:12.701 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:09:12.702 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:09:13.296 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:09:13.484 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 191.3861ms
+2022-04-20 06:09:14.110 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:09:14.146 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 35.8050ms
+2022-04-20 06:12:35.102 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:12:35.105 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 3.4010ms
+2022-04-20 06:12:35.686 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:12:35.689 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.6648ms
+2022-04-20 06:14:54.742 +02:00 [INF] Application is shutting down...
+2022-04-20 06:14:57.669 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:14:57.707 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:14:57.723 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:14:57.727 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:14:57.728 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:14:58.167 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:14:58.321 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 156.2046ms
+2022-04-20 06:14:58.722 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:14:58.842 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 120.1311ms
+2022-04-20 06:15:09.915 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:15:09.921 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 6.0452ms
+2022-04-20 06:15:10.253 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:15:10.257 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.4483ms
+2022-04-20 06:15:16.102 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/ping - -
+2022-04-20 06:15:16.112 +02:00 [INF] Executing endpoint 'HTTP: GET /ping'
+2022-04-20 06:15:16.114 +02:00 [INF] Executed endpoint 'HTTP: GET /ping'
+2022-04-20 06:15:16.116 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/ping - - - 200 - text/plain;+charset=utf-8 13.8686ms
+2022-04-20 06:15:23.039 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:15:23.040 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:15:23.043 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:15:23.045 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 5.9054ms
+2022-04-20 06:17:00.810 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:17:00.811 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:17:00.813 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:17:00.815 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 4.9336ms
+2022-04-20 06:18:35.363 +02:00 [INF] Application is shutting down...
+2022-04-20 06:18:39.566 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:18:39.585 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:18:39.588 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:18:39.589 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:18:39.589 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:18:40.192 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:18:40.279 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 89.5654ms
+2022-04-20 06:18:40.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:18:40.641 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 50.8192ms
+2022-04-20 06:18:53.101 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:18:53.106 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:18:53.108 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:18:53.109 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 7.9849ms
+2022-04-20 06:19:10.319 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:19:10.320 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:19:10.321 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:19:10.323 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 3.8471ms
+2022-04-20 06:21:22.207 +02:00 [INF] Application is shutting down...
+2022-04-20 06:21:24.810 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:21:24.828 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:21:24.832 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:21:24.832 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:21:24.833 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:21:25.437 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:21:25.533 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 97.6678ms
+2022-04-20 06:21:25.759 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:21:25.815 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 55.5775ms
+2022-04-20 06:21:32.033 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:21:32.039 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:21:32.041 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:21:32.043 +02:00 [INF] HTTP GET /request-context responded 200 in 5.6474 ms
+2022-04-20 06:21:32.044 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 10.9007ms
+2022-04-20 06:21:49.708 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:21:49.711 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:21:49.713 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:21:49.714 +02:00 [INF] HTTP GET /request-context responded 200 in 2.8054 ms
+2022-04-20 06:21:49.716 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 8.2206ms
+2022-04-20 06:22:36.635 +02:00 [INF] Application is shutting down...
+2022-04-20 06:22:39.167 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:22:39.185 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:22:39.191 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:22:39.192 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:22:39.192 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:22:39.794 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:22:39.872 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 79.9715ms
+2022-04-20 06:22:40.102 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:22:40.150 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 47.4699ms
+2022-04-20 06:22:54.056 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:22:54.062 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:22:54.063 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:22:54.064 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 8.5729ms
+2022-04-20 06:28:02.226 +02:00 [INF] Application is shutting down...
+2022-04-20 06:28:04.804 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:28:04.821 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:28:04.825 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:28:04.826 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:28:04.826 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:28:05.414 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:28:05.495 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 83.2434ms
+2022-04-20 06:28:05.723 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:28:05.770 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 46.6943ms
+2022-04-20 06:28:17.435 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/request-context - -
+2022-04-20 06:28:17.444 +02:00 [INF] Executing endpoint 'HTTP: GET /request-context'
+2022-04-20 06:28:17.446 +02:00 [INF] Executed endpoint 'HTTP: GET /request-context'
+2022-04-20 06:28:17.448 +02:00 [INF] HTTP GET /request-context (someone) responded 200 in 6.5057ms
+2022-04-20 06:28:17.450 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/request-context - - - 200 0 - 14.7176ms
+2022-04-20 06:31:01.058 +02:00 [INF] Application is shutting down...
+2022-04-20 06:34:53.670 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:34:53.687 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:34:53.691 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:34:53.692 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:34:53.693 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:34:54.267 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:34:54.347 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 81.8209ms
+2022-04-20 06:34:54.589 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:34:54.649 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 59.5578ms
+2022-04-20 06:35:01.702 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/create-customer/1 - -
+2022-04-20 06:35:01.707 +02:00 [INF] Executing endpoint 'HTTP: GET /create-customer/{id}'
+2022-04-20 06:35:01.710 +02:00 [INF] Creating customer id: 1
+2022-04-20 06:35:01.712 +02:00 [INF] Executed endpoint 'HTTP: GET /create-customer/{id}'
+2022-04-20 06:35:01.714 +02:00 [INF] HTTP GET /create-customer/1 ({UserId}) responded 200 in 8.6949ms
+2022-04-20 06:35:01.715 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/create-customer/1 - - - 200 0 - 13.1866ms
+2022-04-20 06:40:17.300 +02:00 [INF] Application is shutting down...
+2022-04-20 06:40:20.030 +02:00 [INF] Now listening on: https://localhost:7269
+2022-04-20 06:40:20.048 +02:00 [INF] Now listening on: http://localhost:5269
+2022-04-20 06:40:20.051 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-20 06:40:20.053 +02:00 [INF] Hosting environment: Development
+2022-04-20 06:40:20.053 +02:00 [INF] Content root path: C:\Users\Administrator\GitHub\dotnet-serilog\dotnet-serilog\
+2022-04-20 06:40:20.656 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/index.html - -
+2022-04-20 06:40:20.751 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/index.html - - - 200 - text/html;charset=utf-8 99.6249ms
+2022-04-20 06:40:20.923 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - -
+2022-04-20 06:40:20.977 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 53.3966ms
+2022-04-20 06:40:28.746 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7269/create-customer/43 - -
+2022-04-20 06:40:28.754 +02:00 [INF] Executing endpoint 'HTTP: GET /create-customer/{id}'
+2022-04-20 06:40:28.758 +02:00 [INF] Creating customer id: 43
+2022-04-20 06:40:29.268 +02:00 [INF] Do some Data Base Query... completed in 506.8 ms
+2022-04-20 06:40:29.270 +02:00 [INF] Executed endpoint 'HTTP: GET /create-customer/{id}'
+2022-04-20 06:40:29.272 +02:00 [INF] HTTP GET /create-customer/43 ({UserId}) responded 200 in 521.0719ms
+2022-04-20 06:40:29.273 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7269/create-customer/43 - - - 200 - text/plain;+charset=utf-8 527.0195ms
+2022-04-20 06:41:26.601 +02:00 [INF] Application is shutting down...
